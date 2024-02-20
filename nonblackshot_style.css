@@ -1,0 +1,140 @@
+body{
+  margin-top: 10px;
+  background-color:aliceblue;
+ 
+}
+
+
+.container9 .box9{
+  width: 100%;
+  margin-bottom: 10 px;
+  break-inside: avoid;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container9 .box9 nav{
+  max-width: 90%;
+  text-align: center;
+  margin: 0 auto;
+  
+  height: 40px;
+  padding-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+.container9 .box9 a{
+  color: rgb(2, 2, 2);
+  font-family: helvetica;
+  text-decoration: none;
+  padding-top: 50px;
+  padding-left: 70px;
+  padding-right: 70px;
+  font-size: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.container{
+  width:1400px;
+  margin: 10px auto;
+  columns: 4;
+  column-gap: 15px;
+}
+
+.container .box{
+  width: 100%;
+  margin-bottom: 10 px;
+  break-inside: avoid;
+}
+
+.container .box img{
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.container .box video{
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 475px) {
+  
+  .container9 .box9{
+    width: 100%;
+    margin-bottom: 10 px;
+    break-inside: avoid;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .container9 .box9 nav{
+    max-width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    height: 20px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  
+  
+  .container9 .box9 a{
+    color: rgb(4, 4, 4);
+    font-family: helvetica;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+    text-align: center;
+    margin: 0 auto;
+  
+  }
+
+
+.container{
+  width:100%;
+  margin-left: 2px auto;
+  margin-right: 2px auto;
+  columns: 2;
+  column-gap: 2px;
+}
+
+.container .box{
+  width: 100%;
+  margin-bottom: 10 px;
+  break-inside: avoid;
+}
+
+.container .box img{
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.container .box video{
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+
+
+} 
+

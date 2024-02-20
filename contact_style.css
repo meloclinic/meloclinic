@@ -1,0 +1,216 @@
+
+body{
+  margin: 0%;
+  height: auto;
+  background-color: rgb(0, 0, 0)
+  
+  
+}
+
+
+.container9 .box9{
+  width: 100%;
+  margin-bottom: 10 px;
+  break-inside: avoid;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container9 .box9 nav{
+  max-width: 90%;
+  text-align: center;
+  margin: 0 auto;
+  
+  height: 40px;
+  padding-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+.container9 .box9 a{
+  color: white;
+  font-family: helvetica;
+  text-decoration: none;
+  padding-top: 50px;
+  padding-left: 90px;
+  padding-right: 90px;
+  font-size: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+
+*{
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  
+}
+
+.container{
+  width: 100%;
+  columns: 2;
+  column-gap: 10px;
+  padding: 15px;
+  margin-left: auto;
+margin-right: auto;
+text-align: center;
+  margin: 0 auto;
+}
+.container .box{
+  width: 100%;
+  margin-bottom: 10 px;
+  break-inside: avoid;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container .box img{
+  width: 70%;
+  margin-bottom: 10 px;
+  break-inside: avoid;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container .box p {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  font-family: helvetica;
+  font-size: 20px;
+  color: rgb(255, 251, 251);
+  width: 60%;
+  margin: 0 auto;
+
+}
+
+.container .box a {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  font-family: helvetica;
+  font-size: 20px;
+  color: rgb(255, 251, 251);
+  width: 50%;
+  margin: 0 auto;
+
+}
+
+
+
+
+.mavi{
+  width: 100%;
+  height: auto;
+}
+
+.center video{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 475px) {
+   
+  .container9 .box9{
+    width: 100%;
+    margin-bottom: 10 px;
+    break-inside: avoid;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .container9 .box9 nav{
+    max-width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    background-color: black;
+    height: 20px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  
+  
+  .container9 .box9 a{
+    color: white;
+    font-family: helvetica;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+    text-align: center;
+    margin: 0 auto;
+  
+  }
+
+  .container{
+    width: 100%;
+    columns: 2;
+    column-gap: 10px;
+    padding: 15px;
+    margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+    margin: 0 auto;
+  }
+  .container .box{
+    width: 100%;
+    margin-bottom: 10 px;
+    break-inside: avoid;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .container .box img{
+    width: 100%;
+    margin-bottom: 10 px;
+    break-inside: avoid;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .container .box p {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    font-family: helvetica;
+    font-size: 10px;
+    color: rgb(255, 251, 251);
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.container .box a {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  font-family: helvetica;
+  font-size: 10px;
+  color: rgb(255, 251, 251);
+  width: 80%;
+  margin: 0 auto;
+  text-decoration: none;
+
+}
+
+
+}
+
+
